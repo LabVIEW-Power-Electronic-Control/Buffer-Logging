@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-04-24 10:13:06" Modified_Date="2017-05-19 15:42:40" Creator="Brian Kindinger" Comments="" ID="47a9262c74f516d0fde26295c80853e3">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-04-24 10:13:06" Modified_Date="2017-05-31 10:25:11" Creator="Brian Kindinger" Comments="" ID="469ba4b1e6b1af4d6f0c8e0242e1dc9d">
   <Library_General_Settings>
     <Package_File_Name>LVPEC_lib_Buffer_Logging</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\dev</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
