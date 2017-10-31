@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-04-24 10:13:06" Modified_Date="2017-07-18 10:06:43" Creator="Brian Kindinger" Comments="" ID="12a75db0f615b368fbaf0be2b04c37ab">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-04-24 10:13:06" Modified_Date="2017-10-31 15:11:05" Creator="Brian Kindinger" Comments="" ID="21cb49db1be91328bd1e10a9f8161388">
   <Library_General_Settings>
     <Package_File_Name>pec_lib_Buffer_Logging</Package_File_Name>
-    <Library_Version>1.0.1.12</Library_Version>
+    <Library_Version>1.0.1.13</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\dev</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -366,7 +366,7 @@
         <Path>..\dev\CleanupLogDirectory.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EFA268A661E891807B4760BE3A6F5982</GUID>
+      <GUID>C2B2DDB0F82C604E0E553CE0059D0E98</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
